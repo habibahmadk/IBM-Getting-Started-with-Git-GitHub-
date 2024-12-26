@@ -1,2 +1,5 @@
-# IBM-Getting-Started-with-Git-GitHub-
-Final project of IBM-Getting started with Git &amp; GitHub COurse
+# IBM-Git-And-Github-Final-Project
+
+# Coursera IBM Full stack software developer course 2, Getting started with Git and Github week 3 final project
+# Authors
+Habib Ahmad
